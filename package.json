@@ -1,0 +1,24 @@
+{
+  "name": "masteringjavascript",
+  "version": "1.0.0",
+  "description": "Mastering Javascript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node JS_Features/ReduceMethod.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gagomezadeveloper/MasteringJavascript.git"
+  },
+  "author": "Gustavo Adolfo Gómez Acevedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gagomezadeveloper/MasteringJavascript/issues"
+  },
+  "homepage": "https://github.com/gagomezadeveloper/MasteringJavascript#readme",
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
